@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Escolha um país</string>
+    <string-array name="paises">
+        <item>Brasil</item>
+        <item>EUA</item>
+        <item>China</item>
+        <item>Russia</item>
+        <item>Alemanha</item>
+    </string-array>
+</resources>
